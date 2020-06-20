@@ -1,0 +1,36 @@
+* {
+  background-color:rgb(48, 35, 12);
+}
+
+body {
+  background-color:rgb(48, 35, 12) ;
+  width: 870px;
+  height: 580px;
+  position: relative;
+}
+
+img {
+  background-color: rgb(48, 35, 12);
+  margin-top: 100px;
+}
+
+.btn {
+  display: block;
+  width: 150px;
+  height: 80px;
+  background-color:rgb(245, 189, 70);
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  font-size: 20px;
+  line-height: 80px;
+  border-radius: 30%;
+  font-weight: bolder;
+  
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  color: rgb(51, 38, 10);
+}
